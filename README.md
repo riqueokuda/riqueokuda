@@ -5,7 +5,8 @@ body>
 </body>
 
 <p>Olá, eu sou um estudante de programação no curso de D.S (Desenvolvimento de sistemas) da ETEC. Gosto de programar e planejo de seguir nesse mercado de trabalho. Porque é uma area que abrange um conteúdo muito importante na tecnologia.</p>
-
+<br>
+<br>
 
 📚Linguagens que estudo:
 - HTML.
